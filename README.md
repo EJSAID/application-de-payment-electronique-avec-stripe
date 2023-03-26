@@ -13,7 +13,8 @@ Lorsqu'un client souhaite effectuer un paiement, il doit remplir un formulaire c
 
 
 
-![Screenshot_6](https://user-images.githubusercontent.com/101452417/227796406-b8cdb1d8-2fca-424d-997b-721ef4d0c0f2.png)
+![Screenshot_8](https://user-images.githubusercontent.com/101452417/227803044-4778e5e7-ed67-488b-a0a7-a42fc361b951.png)
+
 
 
 
