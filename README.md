@@ -1,5 +1,9 @@
 # application-de-payment-electronique-avec-stripe
+Le formulaire qui permet aux utilisateurs de saisir leurs informations de paiement, telles que les détails de leur carte de crédit et leur adresse de facturation, est créé à l'aide de composants Java Swing tels que des champs de texte et des boutons :
 ![Screenshot_6](https://user-images.githubusercontent.com/101452417/227796402-1f6be680-5f73-4591-add1-0d028c2b8382.png)
+La remplissage des informations du client en entrant le montant à payer ainsi que ses informations bancaires relatives à sa carte de crédit.
 ![Screenshot_6](https://user-images.githubusercontent.com/101452417/227796406-b8cdb1d8-2fca-424d-997b-721ef4d0c0f2.png)
+Utilisez l'API Stripe pour traiter de manière sécurisée les informations de paiement. Cela implique de créer un objet Stripe Payment, qui représente le paiement à effectuer. Le Payment peut ensuite être confirmé en utilisant l'API Stripe, qui débitera la carte de crédit de l'utilisateur :
 ![Screenshot_7](https://user-images.githubusercontent.com/101452417/227796411-afbdc20b-9ab3-415c-86c9-2deca48d3732.png)
+Après que le paiement a été effectué avec succès, les transactions sont enregistrées dans le système de Stripe. Cette fonctionnalité de journalisation des transactions permet aux commerçants de suivre et de gérer les paiements effectués par leurs clients de manière efficace et sécurisée. En cas de litige ou de demande de remboursement, les détails de la transaction peuvent être consultés et utilisés pour résoudre le problème. De plus, les données de transaction enregistrées peuvent être utilisées pour générer des rapports de vente et d'autres analyses commerciales, ce qui peut aider les entreprises à mieux comprendre leurs clients et à améliorer leur activité comme ci-dessous.
 ![Capture d’écran (516)](https://user-images.githubusercontent.com/101452417/227796416-bd650ac2-c265-4598-9c0f-4d41876cecb6.png)
