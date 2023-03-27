@@ -35,4 +35,4 @@ Après que le paiement a été effectué avec succès, les transactions sont enr
 
 # Auteurs
 
-@Said Ej jammaa / @Omar Zinane
+@Said Ej jammaa / @omar zinane
