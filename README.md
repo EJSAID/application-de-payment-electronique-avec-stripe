@@ -35,5 +35,5 @@ Après que le paiement a été effectué avec succès, les transactions sont enr
 
 # Auteurs
 
-[Said Ej jammaa] / [omar zinane](https://github.com/omar zinane)
+@Said Ej jammaa / @omar zinane
 
