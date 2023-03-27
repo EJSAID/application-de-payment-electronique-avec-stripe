@@ -33,6 +33,6 @@ Après que le paiement a été effectué avec succès, les transactions sont enr
 ![Capture d’écran (516)](https://user-images.githubusercontent.com/101452417/227796416-bd650ac2-c265-4598-9c0f-4d41876cecb6.png)
 
 
-# Auteur
+# Auteurs
 
-Said Ej jammaa / Omar Zinane
+@Said Ej jammaa / @Omar Zinane
